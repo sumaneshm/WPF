@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System;
 using System.Windows;
-using System.Windows.Documents;
 using System.Windows.Media;
 
 namespace SyntaxHighlighter
